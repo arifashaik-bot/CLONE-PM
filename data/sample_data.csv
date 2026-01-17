@@ -1,0 +1,11 @@
+market_id,market_name,category,created_time,yes_price,no_price,volume
+MKT001,Will Bitcoin exceed $100k in 2026?,Crypto,2025-01-01,0.62,0.38,125000
+MKT002,Will India win T20 World Cup 2026?,Sports,2025-02-10,0.55,0.45,98000
+MKT003,Will AI replace human programmers by 2030?,Technology,2025-03-15,0.71,0.29,156000
+MKT004,Will SpaceX send humans to Mars by 2030?,Science,2025-04-01,0.48,0.52,87000
+MKT005,Will US face a recession in 2026?,Economy,2025-05-20,0.66,0.34,142000
+MKT006,Will Ethereum overtake Bitcoin market cap?,Crypto,2025-06-05,0.41,0.59,76000
+MKT007,Will India’s GDP grow above 7% in 2026?,Economy,2025-07-12,0.58,0.42,91000
+MKT008,Will global AI regulations pass by 2026?,Technology,2025-08-18,0.63,0.37,119000
+MKT009,Will India host Olympics by 2036?,Sports,2025-09-22,0.52,0.48,83000
+MKT010,Will NASA find signs of alien life by 2030?,Science,2025-10-30,0.34,0.66,67000
